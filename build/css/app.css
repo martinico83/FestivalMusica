@@ -1,3 +1,12 @@
-h1 {
-  color: black;
+header {
+  color: green;
 }
+
+h1 {
+  color: red;
+}
+
+/* Sintaxis antigua
+@import 'base/variables';
+@import 'contenido/contenido';
+*/
